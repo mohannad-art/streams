@@ -5,7 +5,7 @@
         {
             "id": 244,
             "name_en": "Channel 37",
-            "name_ar": "القناة السابعة والثلاثون",
+            "name_ar": "الفرات",
             "id_groups": 15,
             "groups_name_en": "News",
             "groups_name_ar": "الاخبار",
@@ -29,7 +29,7 @@
         {
             "id": 243,
             "name_en": "Channel 36",
-            "name_ar": "القناة السادسة والثلاثون",
+            "name_ar": "BBC الانكليزية",
             "id_groups": 15,
             "groups_name_en": "News",
             "groups_name_ar": "الاخبار",
@@ -53,7 +53,7 @@
         {
             "id": 228,
             "name_en": "Channel 35",
-            "name_ar": "القناة الخامسة والثلاثون",
+            "name_ar": "الاتجاه",
             "id_groups": 15,
             "groups_name_en": "News",
             "groups_name_ar": "الاخبار",
@@ -77,7 +77,7 @@
         {
             "id": 226,
             "name_en": "Channel 33",
-            "name_ar": "القناة الثالثة والثلاثون",
+            "name_ar": "افاق",
             "id_groups": 15,
             "groups_name_en": "News",
             "groups_name_ar": "الاخبار",
